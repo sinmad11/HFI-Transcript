@@ -1,4 +1,4 @@
-# Hemp-Transcripts
+# HFI-Transcript
 The Hemp Federation Ireland conference
 run in conjunction with the National
 Organic Training Skillnet 12th March 2020.
